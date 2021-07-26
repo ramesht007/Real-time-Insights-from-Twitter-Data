@@ -6,4 +6,5 @@ As any place filled with riches, Twitter has security guards blocking us from la
 
 ---
 Twitter provides both global and local trends. Let's load and inspect data for topics that were hot worldwide (WW) and in the United States (US) at the moment of query — snapshot of JSON response from the call to Twitter's GET trends/place API.
+<br>
 Note: Here is the documentation for this call, and here a full overview on Twitter's APIs.
